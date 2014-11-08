@@ -1,7 +1,7 @@
 pyorg
 =====
 
-Non Proffit Org Payment + Services App
+Non Profit Org Payment + Services App
 
 Getting Started
 ---------------
